@@ -1,0 +1,236 @@
+.row{
+    padding-top: 50px;
+}
+
+
+
+/*-------------Dark Mode--------*/
+
+.dark{
+    background-color: #121212;
+    color: white;
+}
+
+.dark .card{
+    background-color: #242424;
+}
+
+.dark p{
+    color: white;
+}
+
+.dark h5{
+    color: white;
+
+}
+
+.dark .fa-solid{
+    color: white;
+}
+
+.dark .fa-brands{
+    color: white;
+}
+
+/* .dark h2, h4, h5, .fa-solid, .fa-brands, p{
+    color: white;
+} */
+
+/* ---------Switch --------- */
+
+.switch{
+    background: #343D5B;
+    border-radius: 1000px;
+    border: none;
+    position: relative;
+    cursor: pointer;
+    display: flex;
+    outline:none;
+}
+
+span{
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        display: block;
+        background: none;
+        color: #fff;
+    }
+
+
+
+
+/* ---------Grid --------- */
+
+
+
+.red{
+    color: #212529;
+}
+
+
+/* Cards */
+.card{
+    padding: 50px 0px 0px;
+    margin: 50px;
+    text-align: center;
+    
+}
+
+.row{
+    margin: 30px;
+}
+
+.fa-globe{
+    font-size: 100px;
+    margin: 0 auto;
+    padding: 0px 0px 20px;
+}
+
+.fa-windows{
+    font-size: 100px;
+    margin: 0 auto;
+}
+
+
+.fa-database{
+    font-size: 100px;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;    
+    color: #212529;
+}
+
+.btn{
+    color: white;
+}
+
+/* Contacto */
+.contacto{
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont{
+    font-size: white;
+    padding: 20px;
+
+}
+
+.fa-instagram{
+    color: white;
+    font-size: 50px;
+}
+.fa-envelope{
+    color: white;
+    font-size: 50px;
+}
+
+.git2 {
+    color: white;
+    font-size: 50px;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 20px;
+
+}
+
+.cont{
+    text-align: center;
+}
+
+/* Footer */
+/* .container-fluid{
+    margin: 20px 20px;
+} */
+
+/* Nav */
+
+.navbar-brand{
+    padding-left: 50px;
+}
+
+
+/* Portada */
+
+
+
+/* .header{
+    padding: 50px;
+} */
+
+
+
+.flu{
+    background-image:url(assets/img/Dato-1.png);
+    height: 400px;
+ }
+
+.front{
+    color:white;
+}
+
+
+.img-perfil{
+    width: 300px;
+    height: 300px;
+}
+
+
+.animate__fadeInDownBig{
+    animation-duration: 1.5s;
+    
+}
+
+.col-sm-6{
+    margin: 0 auto;
+}
+h1{
+    color: #CBB700;
+}
+
+
+
+/* Presentacion */
+
+/* .container-fluid{
+    margin: 30px;
+} */
+
+.btn{
+    margin: 10px;
+}
+
+
+/* Skills */
+
+.icon{
+    height: 50px;
+}
+
+.icon2{
+    height: 70px;
+}
+
+.icon3{
+    height: 50px;
+    margin: 5px;
+}
+
+.iconReact{
+    height: 50px;
+    color: blue;
+}
+
